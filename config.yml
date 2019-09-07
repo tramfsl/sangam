@@ -1,0 +1,9 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: T.Ram Financial Services
+theme: sangam
+subtitle: "Translating Opportunities to Growth"
+
+params: 
+  brand_color: "#237"
+  contrast_color: "#295"
