@@ -2,8 +2,8 @@ baseURL: http://tramfsl.netlify.com
 languageCode: en-us
 title: T.Ram Financial Services
 theme: sangam
-subtitle: "Translating Opportunities to Growth"
 
 params: 
+  subtitle: "Translating Opportunities to Growth"
   brand_color: "#237"
   contrast_color: "#295"
