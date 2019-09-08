@@ -1,5 +1,7 @@
 ---
 title: Equity Broking
+subtitle: You can place your direct equity investments through TRAMFSL. 
+icon: icon-target
 ---
 Sample content.
 

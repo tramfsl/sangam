@@ -1,5 +1,7 @@
 ---
 title: Mutual Fund Distribution
+subtitle: If you think mutual fund is the way to go, we are here to help you.
+icon: icon-office
 ---
 Sample content.
 

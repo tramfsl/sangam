@@ -1,5 +1,7 @@
 ---
 title: Portfolio Management
+subtitle: We are experts at managing and growing whole portfolio of wealth, with over 160 crores of assets under our maintenance.
+icon: icon-shield 
 ---
 
 Sample content.
