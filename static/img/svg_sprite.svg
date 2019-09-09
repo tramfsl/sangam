@@ -1,6 +1,6 @@
 <svg style="position: absolute; width: 0; height: 0; overflow: hidden" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
-        <symbol id="icon-home" viewBox="0 0 18 10">
+        <symbol id="icon-home" viewBox="0 0 16 16">
             <title>Home</title>
             <path class="svg-icon icon-home" d="M16 9.2l-8-6.2-8 6.2v-2.5l8-6.2 8 6.2zM14 9v6h-4v-4h-4v4h-4v-6l6-4.5z"/>
         </symbol>
@@ -33,19 +33,19 @@
             <title>Philosophy</title>
             <path class="svg-icon icon-philosophy" d="M4 3l-2-2h-1v1l2 2zM5 0h1v2h-1zM9 5h2v1h-2zM10 2v-1h-1l-2 2 1 1zM0 5h2v1h-2zM5 9h1v2h-1zM1 9v1h1l2-2-1-1zM15.8 13.8l-9.9-9.9c-0.3-0.3-0.8-0.3-1.1 0l-0.9 0.9c-0.3 0.3-0.3 0.8 0 1.1l9.9 9.9c0.3 0.3 0.8 0.3 1.1 0l0.9-0.9c0.3-0.3 0.3-0.8 0-1.1zM7.5 8.5l-3-3 1-1 3 3-1 1z"/>
         </symbol>
-        <symbol id="icon-road" viewBox="0 0 18 12">
+        <symbol id="icon-road" viewBox="0 0 16 16">
             <title>Road</title>
             <path class="svg-icon icon-road" d="M11 16h5L12 0H9l.5 4h-3L7 0H4L0 16h5l.5-4h5l.5 4zm-5.25-6l.5-4h3.5l.5 4h-4.5z"/>
         </symbol>
-        <symbol id="icon-target" viewBox="0 0 18 12">
+        <symbol id="icon-target" viewBox="0 0 16 16">
             <title>Target</title>
             <path class="svg-icon icon-target" d="M16 7h-1.577C13.991 4.215 11.785 2.009 9 1.577V0H7v1.577C4.215 2.009 2.009 4.215 1.577 7H0v2h1.577c.432 2.785 2.638 4.991 5.423 5.423V16h2v-1.577c2.785-.432 4.991-2.638 5.423-5.423H16V7zm-3.612 0h-1.559C10.528 6.148 9.852 5.472 9 5.171V3.612c1.68.383 3.005 1.708 3.388 3.388zM8 9c-.552 0-1-.448-1-1s.448-1 1-1 1 .448 1 1-.448 1-1 1zM7 3.612v1.559c-.852.301-1.528.977-1.829 1.829H3.612C3.995 5.32 5.32 3.995 7 3.612zM3.612 9h1.559c.301.852.977 1.528 1.829 1.829v1.559C5.32 12.005 3.995 10.68 3.612 9zM9 12.388v-1.559c.852-.301 1.528-.977 1.829-1.829h1.559c-.383 1.68-1.708 3.005-3.388 3.388z"/>
         </symbol>
-        <symbol id="icon-shield" viewBox="0 0 18 12">
+        <symbol id="icon-shield" viewBox="0 0 16 16">
             <title>Shield</title>
             <path class="svg-icon icon-shield" d="M15 0L8 2 1 0S.93.808 1 2l7 2.189L15 2c.07-1.192 0-2 0-2zM1.128 3.049C1.503 6.966 2.901 13.553 8 16c5.099-2.448 6.497-9.034 6.872-12.951L8 5.633 1.128 3.049z"/>
         </symbol>
-        <symbol id="icon-office" viewBox="0 0 18 12">
+        <symbol id="icon-office" viewBox="0 0 16 16">
             <title>Office</title>
             <path class="svg-icon icon-office" d="M0 16h8V0H0v16zM5 2h2v2H5V2zm0 4h2v2H5V6zm0 4h2v2H5v-2zM1 2h2v2H1V2zm0 4h2v2H1V6zm0 4h2v2H1v-2zm8-5h7v1H9zm0 11h2v-4h3v4h2V7H9z"/>
         </symbol>
