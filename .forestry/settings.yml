@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: data/feeds
-  label: Feeds
+  path: data
+  label: Data
   create: all
   match: "**/*"
   new_doc_ext: yml
