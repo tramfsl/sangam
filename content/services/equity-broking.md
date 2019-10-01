@@ -1,17 +1,7 @@
 ---
 title: Equity Broking
-subtitle: You can place your direct equity investments through TRAMFSL. 
+subtitle: T. Ram Financial Services Private Limited offers a platform for its clients to execute trades in BSE & NSE in tie up with Paterson Securities Pvt. Ltd., one of India’s oldest and reputed Brokerage house.
 icon: icon-target
 ---
-Sample content.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Sub Title
-Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
-
-Amet luctus venenatis lectus magna fringilla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Egestas egestas fringilla phasellus faucibus scelerisque eleifend. 
-
-## Sub Title 2
-
-Sagittis orci a scelerisque purus semper eget duis. Nulla pharetra diam sit amet nisl suscipit. Sed adipiscing diam donec adipiscing tristique risus nec feugiat in. Fusce ut placerat orci nulla. Pharetra vel turpis nunc eget lorem dolor. Tristique senectus et netus et malesuada.
+TRFSL was a member of Madras Stock Exchange. TRFSL is an Authorized Person of Paterson Securities Private Limited in both BSE and NSE cash segment. TRFSL offers depository services (CDSL)
+through the same arrangement with Paterson Securities Private Limited, which is one of India’s oldest and reputed Broking House. The demat and broking accounts of all our clients in PMS will be with Paterson Securities Private Limited.

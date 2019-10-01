@@ -1,17 +1,6 @@
 ---
 title: Mutual Fund Distribution
-subtitle: If you think mutual fund is the way to go, we are here to help you.
+subtitle: An unbiased Distributor and Advisor can help the clients achieve superior returns from their Mutual Fund Investment. We are not just Distributors of Mutual Funds but caretakers and Doctors of your wealth.
 icon: icon-office
 ---
-Sample content.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-## Sub Title
-Dolor sed viverra ipsum nunc aliquet bibendum enim. In massa tempor nec feugiat. Nunc aliquet bibendum enim facilisis gravida. Nisl nunc mi ipsum faucibus vitae aliquet nec ullamcorper. 
-
-Amet luctus venenatis lectus magna fringilla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in. Egestas egestas fringilla phasellus faucibus scelerisque eleifend. 
-
-## Sub Title 2
-
-Sagittis orci a scelerisque purus semper eget duis. Nulla pharetra diam sit amet nisl suscipit. Sed adipiscing diam donec adipiscing tristique risus nec feugiat in. Fusce ut placerat orci nulla. Pharetra vel turpis nunc eget lorem dolor. Tristique senectus et netus et malesuada.
+TRFSL offers Mutual Fund Distribution services backed by strong quantitative research capabilities. Extensive research is performed by us including in-depth analysis of the Mutual Fund portfolios. Such an approach focusing on quality of the folios has helped our clients attain better outcome viz a viz investing directly. We cater to more than 200 clients and manage INR 50 Cr of MF assets.
