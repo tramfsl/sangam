@@ -2,8 +2,22 @@
 title: About Us
 ---
 
-T.Ram Financial Services Private Limited (Shortly, TRFSL), incorporated as a private limited company in 2011, was established as Shri Rama investment Advisory & Support Services in 2000 by Mr. T Ramabhadran, former MD of Sundaram Finance & Retd. GM of International Banking, SBI. TRFSL offers a one-stop solution for all financial and investment needs of an individual.TRFSL is a SEBI registered Portfolio Management Services Firm. TRFSL currently manages about **₹ 1600 Million** in Direct Equities and about **₹ 500 Million** in Mutual Funds. Other offerings of TRFSL includes financial planning, tax planning, equity sub-broking services and mutual fund distribution.
 
-## Clients
+TRFSL was established in 2011 by Shri. T. Ramabhadran, a doyen of Indian Banking Industry.
 
-We have clients from all over India that includes both retail investors and business entities.
+Shri T. Ramabhadran headed Sundaram Finance Ltd., a prestigious NBFC in India and was also the head of International Banking, SBI. Shri. T. Ramabhadran started Shri Rama Investment Advisory and Support Service, in 1999, with an aim to offer personalized wealth management services. This firm offered a wide variety of wealth management services from Equity Broking to Mutual Fund
+Distribution. T. Ram Financial Services Pvt Ltd., was started in 2011 to expand the scope of Shri Rama’s offerings by moving up in the value chain of wealth management services like Financial
+Planning, Tax Planning, Portfolio Management and Succession Planning.
+
+T. Ram Financial Services Pvt. Ltd., currently caters to more than 300 clients across the globe. Most of the clients are the Who’s & Who of their respective domains. The firm currently manages INR 170 Cr under Discretionary Portfolio Management Services and also has INR 50 Cr as AUM under Mutual Fund Distribution vertical. R Subash, an alumnus of CEG,IIM B is the Managing Director of T.Ram Financial Services P Ltd. He is ably assisted by a dedicated team of analysts and dealers with combined experience of more than 125 years in Investment management.
+
+## Some of Our Investors
+
+* Leading management consultant, Padma Vibhushan awardee
+* Former secretary, Government of India
+* Former chief secretary, Union of India
+* Partner, world's largest consulting firm
+* CEO of a leading NBFC
+* Chief Risk Officer of a leading hedge fund
+* Top IIT/IIM & Ivy League Alumni
+* Leading Lawyers, Consultants and Academicians

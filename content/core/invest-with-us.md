@@ -9,7 +9,9 @@ If you are still making your mind up, here are a few things to consider.
 
 ## Why Invest With Us? 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our fee based business model makes it profitable for us only if we managed to grow your wealth. For example, we take charges only if we are able to deliver a certain amount of growth.
+
+This is diagonally opposite to commission based model where someone paying higher commission can influence advisors decisions. 
 
 ## Some of Our Investors
 

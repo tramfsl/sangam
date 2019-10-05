@@ -1,7 +1,5 @@
 ---
 title: Your search for a trusted wealth manager ends here. Start growing your wealth. 
-cta: Invest With Us
-cta_link: /core/invest-with-us/
 menu:
   main: 
     name: Home
@@ -10,5 +8,13 @@ menu:
     pre: "icon-home"
 ---
 
-T.Ram FS has 19 years of experience in wealth creation through value investing. Join us today. More about us ->
+Some of Our Investors
 
+* Leading management consultant, Padma Vibhushan awardee
+* Former secretary, Government of India
+* Former chief secretary, Union of India
+* Partner, world’s largest consulting firm
+* CEO of a leading NBFC
+* Chief Risk Officer of a leading hedge fund
+* Top IIT/IIM & Ivy League Alumni
+* Leading Lawyers, Consultants and Academicians

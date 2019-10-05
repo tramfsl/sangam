@@ -9,8 +9,8 @@ params:
   contrast_color: "#295"
   freshchat: 
     olduser: freshchattestmail+prodhealth1722@gmail.com
-    token: f78f3b09-811c-4f0d-b4f8-bfc84156826b
-    newtoken: eec879d6-cc67-49e1-bce0-b179326c8903
+    oldtoken: f78f3b09-811c-4f0d-b4f8-bfc84156826b
+    token: eec879d6-cc67-49e1-bce0-b179326c8903
     host: https://wchat.freshchat.com
 
 menu: 

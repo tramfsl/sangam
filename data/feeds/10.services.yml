@@ -1,12 +1,12 @@
 feed: 
   name: Services
   list:
-    - Title: Financial Planning
-      Description: Well begun is half done. A well drafted financial plan is the first step toward wealth creation and financial independence.
-      URL: /services/financial-planning/
     - Title: Portfolio Management
       Description: Portfolio Management is an art, science and math of wealth creation. We at T. Ram Financial Services manage these 3 key aspects of portfolio management.
       URL: /services/portfolio-management/
+    - Title: Financial Planning
+      Description: Well begun is half done. A well drafted financial plan is the first step toward wealth creation and financial independence.
+      URL: /services/financial-planning/
     - Title: Mutual Fund Distribution
       Description: An unbiased advisor can help the clients achieve superior returns from their Mutual Fund Investment. We are not just Distributors of Mutual Funds but caretakers and Doctors of your wealth.
       URL: /services/mutual-fund-distribution/
