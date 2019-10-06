@@ -6,7 +6,7 @@ Get to know your portfolio status.
 
 ## Client Backoffice
 
-You can get your portfolio status at [Paterson client back office website](http://ec2-52-221-57-212.ap-southeast-1.compute.amazonaws.com/WebClient/Index.cfm).
+You can get your portfolio status at [Paterson Securities website](http://ec2-52-221-57-212.ap-southeast-1.compute.amazonaws.com/WebClient/Index.cfm "Paterson Securities website").
 
 ## Mobile App
 
