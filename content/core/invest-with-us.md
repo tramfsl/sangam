@@ -15,10 +15,10 @@ This is diagonally opposite to commission based model where someone paying highe
 
 ## Some of Our Investors
 
-* Leading management consultant, Padma Vibhushan awardee
+* Leading management consultant, Padma Bhushan awardee
 * Former secretary, Government of India
 * Former chief secretary, Union of India
-* Partner, world's largest consulting firm
+* Partner, world's most trusted consulting firm
 * CEO of a leading NBFC
 * Chief Risk Officer of a leading hedge fund
 * Top IIT/IIM & Ivy League Alumni

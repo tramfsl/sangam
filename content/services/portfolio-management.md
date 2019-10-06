@@ -5,11 +5,11 @@ icon: icon-shield
 weight: 100
 ---
 
-We launched our PMS in July 2018. TRFSL currently **manages INR 170 Cr** (as of Sep 30 2019) in Indian capital market. 
+We launched our inhouse Portfolio Management Services in July 2018. We **manage ₹ 180 Cr** (as on Sep 30 2019) in Indian equity market. 
 
 ## Our Approach
-We adopt a focused multi-cap approach with a bias toward large caps. Our emphasize is more on Risk Weighted Returns. A coffee can approach with a fine blend of Growth and Value stock is practised. Focus is predominantly on companies with high standard of Corporate Governance and minority shareholder friendliness. We believe in steady compounding rather than
-compromising the quality for quick returns. Our aim is to generate superior returns without compromising on the quality of companies. The [performance of our portfolios can be seen here](/performance/).
+We adopt a focused multi-cap approach with a bias towards large caps. Our emphasize is more on Risk Weighted Returns. A coffee can approach with a fine blend of Growth and Value investing is practised. Focus is predominantly on companies with high standard of Corporate Governance and minority shareholder friendliness. We believe in steady compounding rather than
+compromising the portfolio quality for quick returns. Our aim is to generate superior returns without compromising on the quality of companies. The [performance of our portfolios can be seen here](/performance/).
 
 ## Who does it? 
-The investment process is **headed by R. Subash, M.D., who is an alumnus of IIM-B**. He is ably assisted by a 4-member research team having a combined experience of more than 60 years in Indian Equity space.
+The investment process is headed by R. Subash, M.D., who is an alumnus of IIM-B. He is ably assisted by a 4-member research team having a combined experience of more than 60 years in Indian Equity space.

@@ -1,7 +1,7 @@
 ---
 title: PMS Performance since inception
-date: "2019-10-05T20:19:30+05:30"
-publishdate: "2019-10-05T20:19:30+05:30"
+date: "2019-10-04T20:19:30+05:30"
+publishdate: "2019-10-04T20:19:30+05:30"
 ---
 
 

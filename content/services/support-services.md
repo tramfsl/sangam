@@ -5,7 +5,7 @@ icon: icon-philosophy
 weight: 500
 ---
 
-While portfolio management, financial planning, mutual fund distribution and equity broking form the basis of our operation, we extend our services to support our clients on other key aspects of financial control such as,
+While portfolio management, financial planning, mutual fund distribution and equity broking form the basis for wealth creation, we extend our services to our clients on other key aspects of tax optimization, succession planning and insurance. 
 
 ## Tax Advisory, planning and filing of IT returns
 
