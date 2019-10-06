@@ -9,14 +9,13 @@ While portfolio management, financial planning, mutual fund distribution and equ
 
 ## Tax Advisory, planning and filing of IT returns
 
-Nobody likes to pay taxes, may be some do. But even those who like paying taxes hate filing returns. 
-
-We help you plan your investments to optimize tax saving both during the years of accumulation and the time when you use your wealth. We can also do tax filings on your behalf.
-
-## Succession Planning
-
-Everyone needs a backup plan. If you want to transfer your wealth to someone else under specific circumstances, we help you do that with all the legal work including nominee registration. 
+As an extension of financial planning, we also offer Tax Advisory, Planning and Return Filing services for our clients. Tax optimization is a key element of financial planning. Our inhouse experts helps our clients optimize their tax outgoes.
 
 ## Insurance 
 
-Investment is only one side of the wealth creation. You also need to manage any financial risk in case you stop generating any income mid-way. We handle insurance distribution through our channel partners to help you cover against general risks.
+A well drafted financial plan implemented is incomplete without Insurance. We offer customized insurance advisory and distribution services through our channel partners. Kindly get in touch with us for your insurance requirements.
+
+## Succession Planning
+
+Wealth created should be seamlessly passed on to the next generation. TRFSL offers this succession planning services which takes care of transfer / transmission and ring fencing of wealth across generations.
+

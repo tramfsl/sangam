@@ -1,6 +1,6 @@
 ---
 title: Equity Broking
-subtitle: T. Ram Financial Services Private Limited offers a platform for its clients to execute trades in BSE & NSE in tie up with Paterson Securities Pvt. Ltd., one of India’s oldest and reputed Brokerage house.
+subtitle: We offer a platform for our clients to execute trades in BSE & NSE through Paterson Securities Pvt. Ltd., one of India’s oldest and reputed Brokerage house.
 icon: icon-target
 weight: 400
 ---

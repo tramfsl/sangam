@@ -1,6 +1,6 @@
 ---
 title: Portfolio Management
-subtitle: Portfolio Management is an art, science and math of wealth creation. We at T. Ram Financial Services manage these 3 key aspects of portfolio management.
+subtitle: Portfolio Management is the art, science and math of wealth creation. We at T. Ram Financial Services manage these 3 key aspects of portfolio management.
 icon: icon-shield 
 weight: 100
 ---

@@ -8,10 +8,10 @@ menu:
     pre: "icon-home"
 ---
 
-Some of Our Investors
+Some of Our Clientele
 
 * Leading management guru who is a Padma Bhushan awardee.
-* Former secretary, Government of India.
+* Former Secretary, Government of India.
 * Partner, world’s most trusted consulting firm.
 * CEO of a leading NBFC.
 * Chief Risk Officer of a hedge fund.

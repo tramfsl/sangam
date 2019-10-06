@@ -9,10 +9,9 @@ We are presenting you the month-on-month return % since inception.
 ![Month on Month Returns %](/img/TRFSL-pms-monthly-performance-since-inception.png) 
 
 Here is how we compare against other indices of the industry:
-![Performance from Aug 2018 to July 2019](/img/TRFSL-pms-performance-since-inception-compare-indices.png)
+![Performance from Aug 2018 to July 2019](/img/pms-performance-since-inception.png)
 
-The whole numbers here:
-![Performance comparison against other indices](/img/since-inception.png)
+![Performance comparison against other indices](/img/pms-performance-since-incption-table.png)
 
 ### References
 

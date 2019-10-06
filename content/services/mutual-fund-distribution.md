@@ -1,6 +1,6 @@
 ---
 title: Mutual Fund Distribution
-subtitle: An unbiased Distributor and Advisor can help the clients achieve superior returns from their Mutual Fund Investment. We are not just Distributors of Mutual Funds but caretakers and Doctors of your wealth.
+subtitle: An unbiased advisor can help the clients achieve superior returns from their Mutual Fund Investments. We are not just distributors of mutual funds but caretakers and doctors of your investments.
 icon: icon-office
 weight: 300
 ---
