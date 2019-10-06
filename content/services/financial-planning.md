@@ -20,4 +20,4 @@ We at TRFSL, have drafted close to **500 financial plans** so far catering to a 
 
 If you would like to avail this financial planning service of us please download the questionnaire, fill in the same and drop a mail to subashr@tramfsl.com. Our in-house financial planner will reach out to you. You may alternatively contact us at +91-44-24335067 /+91-44-24351903 as well.
 
-<a href="/files/questionnaire.xls" download>Download the questionnaire</a>, fill it and send it back to us.
+<a href="/files/questionnaire.xls" download>You may download the questionnaire</a>, fill it and send it to subashr@tramfsl.com.
