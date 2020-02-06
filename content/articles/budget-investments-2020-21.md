@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "03-02-2020"
 draft = true
 subtitle = ""
 title = "Budget & Investments - 2020 - 21"
@@ -42,3 +42,5 @@ Currency is expected to be stable as fiscal deficit targets were met. Rules were
 This corrective phase is akin to the phase in July-Sep 2019. Yet another opportunity to invest in Equities with a 3 year time horizon. The taxation changes should also be looked into while investing so as to optimize tax out go. We will be more than happy to help you out in all these aspects.
 
 Regards,
+
+Team TRFSL
