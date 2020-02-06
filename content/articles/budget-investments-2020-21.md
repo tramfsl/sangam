@@ -21,7 +21,7 @@ Similarly, TDS will be deducted on short term and long-term capital gains by Mut
 
 Given these changes, it makes sense for those in the highest tax bracket to invest in growth mode in Mutual funds to bring down taxation significantly.
 
-We foresee companies declaring special dividends before March 31st 2019 as Dividends with DDT are more beneficial to promoters rather than Dividends without DDT taxable at marginal rate. As buyback taxation is at 20% and Dividends are taxed at marginal rate, you can see re-emergence of buy backs as a tool to reward share holders from next FY 2021.
+We foresee companies declaring special dividends before March 31st 2020 as Dividends with DDT are more beneficial to promoters rather than Dividends without DDT taxable at marginal rate. As buyback taxation is at 20% and Dividends are taxed at marginal rate, you can see re-emergence of buy backs as a tool to reward share holders from next FY 2021.
 
 **b. Change in Personal Tax:**
 
