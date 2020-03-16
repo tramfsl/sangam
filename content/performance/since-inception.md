@@ -1,17 +1,17 @@
 ---
 title: PMS Performance since inception
-date: "2019-10-04T20:19:30+05:30"
-publishdate: "2019-10-04T20:19:30+05:30"
+date: 2019-10-04T20:19:30+05:30
+publishdate: 2019-10-04T20:19:30+05:30
+draft: true
+
 ---
-
-
 We are presenting you the month-on-month return % since inception.
-![Month on Month Returns %](/img/TRFSL-pms-monthly-performance-since-inception.png) 
+
+![](/uploads/since inception.JPG)
 
 Here is how we compare against other indices of the industry:
-![Performance from Aug 2018 to July 2019](/img/pms-performance-since-inception.png)
 
-![Performance comparison against other indices](/img/pms-performance-since-incption-table.png)
+![](/uploads/graph3-1.JPG)
 
 ### References
 
