@@ -1,6 +1,6 @@
 +++
 draft = true
-title = "sebi-scores"
+title = "SEBI Scores"
 
 +++
-This site does not directly use cookies. Third party software vendors may set up cookies to track usage.
+SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores.gov.in/scores/Welcome.html "https://scores.gov.in/scores/Welcome.html")
