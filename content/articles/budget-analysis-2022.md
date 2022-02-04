@@ -1,46 +1,107 @@
 +++
-date = "03-02-2020"
+date = "04-02-2022"
 draft = true
 subtitle = ""
 title = "Budget Analysis 2022"
 
 +++
-Greetings of the day!!
 
-Mrs. Nirmala Sitharaman presented the Union Budget on Feb 1 2020. There are changes with respect to personal taxation and taxation of dividends. We will look into these briefly.
+**Budget – The Journey so far and The Way Forward**
 
-**a. Taxation of Dividends:**
+Mrs Nirmala Sitharaman presented her fourth budget for FY2022-23. While the first budget of hers did not go down well with the corporate, the common man and the free market leaning economists, she was forced to roll back most of the adverse measures then. The second budget was made redundant by Covid and she reworked every aspect of that budget right from revenue projections to allocations to subsidies and the deficit targets.
 
-Dividends were tax free in the hands of investors if they were receiving dividends less than Rs. 10 lakh a year. If the dividends exceeded 10 lakhs a year, the dividends were taxed at 10 %. In addition to this a DDT (Dividend Distribution Tax) anywhere between 10 to 30 % were levied on the Mutual Funds and companies declaring dividend. This effectively reduced the money available for dividend distribution.
+The third Budget presented by her in Feb 2021 was a well thought out budget focusing on making the budget more transparent by disclosing off balance sheet items like Food Corporation of India loans and absorbing it into the books of Govt of India and the budget focused on several strategic moves like divestment of LIC and increasing the capital expenditures to boost economy. When an economy is in a crisis, the Govt has two options to revive the economy. Option 1 is to go for helicopter money by transferring cash directly to the affected, and option 2 is to spend more on infrastructure, and revive the economy. While most of the Western countries opted for option 1, India chose option 2 in Budget 2021.
 
-For eg. : If a company declared dividend to the tune of Rs. 100, it has to pay another Rs. 20 as DDT so far. This DDT is now scrapped which means the companies can declare dividends to the tune of Rs. 120.
+**The Surprise Factor in Tax Windfall!**
 
-However, the investors will have to pay Tax on these dividends at their slab rates. And companies/ mutual funds are asked to deduct TDS on these dividends as well if Dividends crossed Rs.5,000.
+Corporate Tax collection is expected to touch 635000 cr this fiscal against 457000 cr collected last fiscal increasing by a whopping 38%. Personal Incomes tax is expected to touch 615000 cr this fiscal against 487000 cr collected last fiscal. Central GST too is expected to touch 675000 cr this fiscal against 548000 cr collected last year.
 
-Similarly, TDS will be deducted on short term and long-term capital gains by Mutual Funds going forward for Resident Investors. Hitherto, this was applicable for NRIs only.
+GDP has just limped back to pre-Covid levels but Tax Collections have surged big time as evident from the above data. This is a huge windfall for the government.
 
-Given these changes, it makes sense for those in the highest tax bracket to invest in growth mode in Mutual funds to bring down taxation significantly.
+The windfall was used to foot the fertiliser subsidy for the farmer (61000 cr) to insulate him from increase in global fertiliser prices. Govt repaid the borrowings of Air India to the tune of 51000 cr (accumulated debt and losses) before divesting it to Tatas, increased spending on building roads and supporting railways to the tune of 95000 crore, and reducing the fiscal deficit from 9.2% to 6.9%.
 
-We foresee companies declaring special dividends before March 31st 2020 as Dividends with DDT are more beneficial to promoters rather than Dividends without DDT taxable at marginal rate. As buyback taxation is at 20% and Dividends are taxed at marginal rate, you can see re-emergence of buy backs as a tool to reward share holders from next FY 2021.
+This increase in revenues and expenditure is captured in the Exhibit 1 below.
 
-**b. Change in Personal Tax:**
+![](/uploads/1.png)
 
-Finance Minister has introduced a new tax regime where the taxes are reduced across the board. However, this comes with a caveat. Those wanting to migrate to the new tax regimes will have to forego popular exemptions like 80C, 80D, HRA, LTA etc.
+Source : Budget Documents
 
-Each and everyone of us must do a cost benefit analysis and figure out if it makes sense to migrate to new tax regime. It is an elaborate process. You may consult with your tax consultants or auditor and come to a conclusion.
+The policy of the government is clear from what it did over the last 24 months – It doesn’t subscribe to the policy of stimulating the economy through helicopter money. Instead, it wants to stimulate the economy through enhanced capital expenditure. The increase in Capital Expenditure over the last few years is captured in Exhibit 2.
 
-These are the major implications of the Budget on Personal taxes and investments. We will send a detailed email as and when more clarifications or roll backs come from the ministry.
+![](/uploads/2.png)
 
-These moves have not gone down well with the markets and markets crashed 1000 points on the Budget day. Markets were expecting a consumption boost from the budget. But the Budget was very conservative and fiscal deficit target was largely adhered to. The complicated tax cuts for middle class together with no increase in allocation for MNREGS and PM Kisan scheme aimed at the poor and taxation of dividends for the rich at the slab rate do not give any consumption boost required to bring back real economic growth to 8%.
+Source : Budget Documents
 
-The nominal GDP growth which includes inflation is expected to be at 10%. 5% real growth and 5% inflation. This will translate to 9-11% annualized returns from the equity markets. Markets were expecting the fiscal stimulus to take up this nominal GDP growth back to 14%.
+**Budget 2022**
 
-As this did not materialize, there is a sense of disappointment. However, Investors with a long-term view may consider this as an opportunity to invest in high quality companies at lower prices. There was a steep correction in July 2019 soon after the Budget and there was a smart recovery in Sep 2019. We expect a similar cycle this time too. A smart bounce after all these issues including Corona Virus threat settle down. We will be happy to translate this opportunity to growth for our Investors.
+Budget 2022 in short is continuity of Budget 2021 – Focusing on Capital Expenditures, increasing tax revenues and Strategic Divestments while bringing down fiscal deficit further to 6.4%. The essence of the Budget is captured in Exhibit 3 and Exhibit 4. Exhibit 3 throws light on how GOI earns a rupee and how it spends the same. Exhibit 4 summarises the Budget workings.
 
-Currency is expected to be stable as fiscal deficit targets were met. Rules were relaxed for more foreign money to flow both in equity and debt space in the Budget. Tax preference were also extended to these Investors. We foresee foreign Investors lapping up BPCL, LIC divestment and pumping in more money in high quality companies as well. This is one of the positive aspects of the Budget.
+![](/uploads/3.png)
 
-This corrective phase is akin to the phase in July-Sep 2019. Yet another opportunity to invest in Equities with a 3 year time horizon. The taxation changes should also be looked into while investing so as to optimize tax out go. We will be more than happy to help you out in all these aspects.
+![](/uploads/4.png)
 
-Regards,
+Exihibit 4:
 
-Team TRFSL
+![](/uploads/5.png)
+
+Source : Business Standard
+
+**Salient Features of the Budget 2022**
+
+1\. No change in Personal Income tax slabs
+
+2\. No change in taxation of Dividends and Buybacks
+
+3\. Cryptocurrency gains to be taxed at 30% without any carried forward loss provisions
+
+4\. Fiscal Deficit target of 6.4% implying a nominal GDP growth rate of 11.1%
+
+5\. Expects Personal Income Tax and Corporate tax collections to grow by 14%
+
+6\. Expects GST collections to increase by 15%
+
+7\. Provisions made to build/upgrade 25000 kms of National highways
+
+8\. Allocation for rural roads increased to 190000 cr from 140000 cr
+
+9\. Allocation to piped water for all scheme increased to 60000 c from 45000 cr
+
+10\. Allocation to PM Awas Yojana – housing scheme increased to 48000 cr from 27000 cr
+
+11\. 400 new Vande Bharat trains to be launched over the next 3 years
+
+12\. Disinvestment targets to hover around 70000 cr
+
+13\. Capex Expenses to touch 750000 cr mark.
+
+**What is in store for us?**
+
+The fact that there are no tax increases both on the corporate and the personal tax front augurs well for our investments. The budget assumptions are realistic and we feel the Budget targets can be met provided there are no further lockdowns like the one seen in Mar-June 2020.
+
+Many expected the FM to sugar coat the new personal tax regime and make it more attractive. However, she has maintained status quo. A decision-making tool which was devised by us last year to enable a tax payer to choose the right taxation system is appended to this newsletter as Exhibit 5. We hope the exhibit will make your life simpler in choosing the optimal tax regime.
+
+The move of the FM to tax gains from crypto currencies at 30% will not alter our views on Investing in them. Crypto currencies are illegal and do not fit into the definition of an asset. Hence, we will not invest in them and take irrational, undue risks.
+
+The benchmark Sensex has reacted positively to the Budget and is up by more than 1000 points over the last 2 days as the Budget ticked the right boxes on the infrastructure front and there were no tax increases. Sensex movements in the shorter run will be volatile and largely determined by happenings in USA, Ukraine and UP election results. Sensex earnings are expected to grow by more than 15% next fiscal. The Budget assumes a nominal GDP growth of 11.1% and increase in corporate tax collection by 14%.
+
+Markets are factoring in an at least 15% growth in Sensex earnings for next FY. This earnings growth trajectory will be the driver in the medium run while the underlying demographics of the country remains the long-term driver. The Budget doesn’t alter our Investment Philosophy. We will continue to buy into good businesses at reasonable price, stick to asset allocation in line with our client’s risk appetite and requirements, build a robust portfolio, manage the risks prudently to take care of the life goals of our clients.
+
+Prudent Investors are advised to stick to their asset allocation strategies, stay invested, make best use of any correction like the one which happened a fortnight back, invest more and reap the benefits in the longer run. We will be happy to translate very such opportunity to growth for our Investors.
+
+Warm Regards,
+
+Team T.Ram
+
+Feb 03 2022
+
+Exhibit 5:
+
+![](/uploads/6.png)
+
+Note:
+
+New – Opt for New Tax Regime
+
+Old - Opt for Old Tax Regime
+
+Same – You can opt for either
