@@ -14,11 +14,20 @@ SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores
 |3|	Other Sources (if any)|	0|	0|	0|	0|	0|	0|
 |#| Grand Total|	0|
 
-**Trend of monthly disposal of complaints**
+**Trend of Monthly disposal of complaints**
 							
 |S. No|	Month |	Carried forward from previous month |Received | Resolved* | Total Pending#	|
 |:------:|:------:|:------:|:-------:|:------:|:------:|
 |1|	Jan 2022|	0 |	0 |	0 |	0 |
 |2|	Dec 2021|	0|	0|	0|	0|
 |3|	Nov 2021|	0|	0|	0|	0|
+|#| Grand Total|	0|
+
+**Trend of Annual disposal of complaints**
+							
+|S. No|	Month |	Carried forward from previous month |Received | Resolved* | Total Pending#	|
+|:------:|:------:|:------:|:-------:|:------:|:------:|
+|1|	2018- 19 |	0 |	0 |	0 |	0 |
+|2|	2019- 20|	0|	0|	0|	0|
+|3|	2020- 21|	0|	0|	0|	0|
 |#| Grand Total|	0|
