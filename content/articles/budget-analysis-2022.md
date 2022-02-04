@@ -1,6 +1,5 @@
 +++
 date = "04-02-2022"
-draft = true
 subtitle = ""
 title = "Budget Analysis 2022"
 
