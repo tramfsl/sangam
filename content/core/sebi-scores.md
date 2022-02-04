@@ -12,7 +12,7 @@ SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores
 |1|	Directly from Investors|	0 |	0 |	0 |	0 |	0 |	0 |
 |2|	SEBI (Scores)|	0|	0|	0|	0|	0|	0|
 |3|	Other Sources (if any)|	0|	0|	0|	0|	0|	0|
-|#| Grand Total	0|
+|#| Grand Total|	0|
 
 **Trend of monthly disposal of complaints**
 							
@@ -21,4 +21,4 @@ SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores
 |1|	Jan 2022|	0 |	0 |	0 |	0 |
 |2|	Dec 2021|	0|	0|	0|	0|
 |3|	Nov 2021|	0|	0|	0|	0|
-|#| Grand Total	0|
+|#| Grand Total|	0|
