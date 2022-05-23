@@ -1,6 +1,5 @@
 +++
 date = "2019-12-14"
-draft = true
 subtitle = ""
 title = "A snapshot of month on month performance since Nov 2018"
 
