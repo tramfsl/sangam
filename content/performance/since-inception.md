@@ -12,5 +12,5 @@ Here is how we compare against other indices of the industry:![](/uploads/since-
 
 ### References
 
-* You can find [NSE Data here](https://www.nseindia.com/products/content/equities/indices/historical_index_data.htm)
+* You can find [BSE Data here](https://www.bseindia.com/indices/IndexArchiveData.html)
 * You can generate [SEBI PMR here](https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doPmr=yes)
