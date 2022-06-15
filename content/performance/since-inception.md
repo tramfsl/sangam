@@ -4,9 +4,6 @@ date: 2019-10-04T20:19:30.000+05:30
 publishdate: 2019-10-04T20:19:30.000+05:30
 
 ---
-We are presenting you the month-on-month return % since inception.
-
-![](/uploads/since-inception-till-aug-2020.JPG)
 
 Here is how we compare against other indices of the industry:
 
