@@ -8,7 +8,9 @@ We are presenting you the month-on-month return % since inception.
 
 ![](/uploads/since-inception-till-aug-2020.JPG)
 
-Here is how we compare against other indices of the industry:![](/uploads/since-inception-table-till-agu-2020.JPG)
+Here is how we compare against other indices of the industry:
+
+![](/uploads/return-since-inception-may-22.PNG)
 
 ### References
 
