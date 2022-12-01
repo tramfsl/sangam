@@ -4,7 +4,7 @@ title = "SEBI Scores"
 +++
 SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores.gov.in/scores/Welcome.html "https://scores.gov.in/scores/Welcome.html")
 
-**Data For the Month Ending Oct 2022**
+**Data For the Month Ending Nov 2022**
 
 | S. No | Received From | Pending at the end of last month | Received | Resolved* | Total Pending# | Pending complaints >3 months | Average Resolution Time^ (in days) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -17,9 +17,9 @@ SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores
 
 | S. No | Month | Carried forward from previous month | Received | Resolved* | Total Pending# |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Aug 2022 | 0 | 0 | 0 | 0 |
-| 2 | Sep 2022 | 0 | 0 | 0 | 0 |
-| 3 | Oct 2022 | 0 | 0 | 0 | 0 |
+| 1 | Sep 2022 | 0 | 0 | 0 | 0 |
+| 2 | Oct 2022 | 0 | 0 | 0 | 0 |
+| 3 | Nov 2022 | 0 | 0 | 0 | 0 |
 | # | Grand Total | 0 |  |  |  |
 
 **Trend of Annual disposal of complaints**
