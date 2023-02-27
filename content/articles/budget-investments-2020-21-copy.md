@@ -1,6 +1,5 @@
 +++
 date = "03-02-2020"
-draft = true
 subtitle = ""
 title = "IFA Galaxy Summit 2023"
 
