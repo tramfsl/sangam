@@ -2,10 +2,10 @@
 date = "03-02-2020"
 draft = true
 subtitle = ""
-title = "Budget & Investments - 2020 - 21-(copy)"
+title = "IFA Galaxy Summit 2023"
 
 +++
-Yet another article contributed for IFA Galaxy summit stressing on KEY IS ME.
+Yet another article contributed for IFA Galaxy summit 2023 stressing on KEY IS ME.
 
 K - Knowledge
 
@@ -22,3 +22,9 @@ M - Methodical
 E - Empathy.
 
 Hope you like the thought process and find it useful.
+
+![](/uploads/whatsapp-image-2023-02-26-at-10-05-50.jpeg)
+
+![](/uploads/whatsapp-image-2023-02-26-at-10-05-51-1.jpeg)
+
+![](/uploads/whatsapp-image-2023-02-26-at-10-05-51.jpeg)
