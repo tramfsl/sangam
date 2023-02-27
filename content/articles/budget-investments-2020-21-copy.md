@@ -1,5 +1,5 @@
 +++
-date = "03-02-2020"
+date = "27-02-2023"
 subtitle = ""
 title = "IFA Galaxy Summit 2023"
 
