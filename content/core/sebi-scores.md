@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = "SEBI Scores"
 
 +++
@@ -31,3 +31,4 @@ SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores
 | 2 | 2021- 22 | 0 | 0 | 0 | 0 |
 | 3 | 2022- 23 | 0 | 0 | 0 | 0 |
 | # | Grand Total | 0 |  |  |  |
+
