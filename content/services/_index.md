@@ -1,6 +1,6 @@
 ---
 title: Services Offered
-subtitle: Personalized services custom designed to meet your needs.
+subtitle: Personalized services, custom designed and tailor made to meet your requirements.
 sidebar: false
 tiles: true
 menu: 

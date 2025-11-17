@@ -1,6 +1,7 @@
 ---
 title: Invest With Us
 description: "Why and How of investing with us"
+draft: true
 ---
 
 You are in good hands. Get on a call with us over phone @ +91-4424335067 or drop a line at subashr@tramfsl.com. We'll get you started.
@@ -15,10 +16,10 @@ This is diagonally opposite to commission based model where someone paying highe
 
 ## Some of Our Investors
 
-* Leading management consultant, Padma Vibhushan awardee
+* Leading management consultant, Padma Bhushan awardee
 * Former secretary, Government of India
 * Former chief secretary, Union of India
-* Partner, world's largest consulting firm
+* Partner, world's most trusted consulting firm
 * CEO of a leading NBFC
 * Chief Risk Officer of a leading hedge fund
 * Top IIT/IIM & Ivy League Alumni

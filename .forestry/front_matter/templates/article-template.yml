@@ -1,0 +1,25 @@
+---
+label: article template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: text
+  name: date
+  label: date
+- name: draft
+  type: boolean
+  label: draft
+pages:
+- content/articles/budget-analysis-2022.md
+- content/articles/budget-investments-2020-21-copy.md
+- content/articles/budget-investments-2020-21.md
+- content/articles/children-s-day-musings.md
+- content/articles/tax-system-ready-reckoner-2020-21.md
+- content/performance/a-snapshot-of-month-on-month-performance-since-jan-2022.md
+- content/performance/a-snapshot-of-month-on-month-performance-since-mar-2019.md
+- content/performance/a-snapshot-of-month-on-month-performance-since-nov-2018.md

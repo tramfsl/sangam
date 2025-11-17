@@ -2,6 +2,8 @@
 title: Elections and Markets
 subtitle: 
 date: 
+draft: true
+
 ---
 The ruling BJP government suffered a stroke in their heartland yesterday by losing Gorakhpur, Araria and Phulpur Lok Sabha by-elections. With this loss and their earlier loss in Rajasthan by-polls and not so great performance in Gujarat, the probability of them coming back to power has reduced significantly. The field is wide open and the opposition will give BJP a run for their money. Should investors be worried about this? 
 

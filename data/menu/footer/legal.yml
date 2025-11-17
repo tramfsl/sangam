@@ -1,5 +1,8 @@
-category: 
+---
+category:
   name: Legal
   list:
-    - Title: Privacy
-      URL: /core/privacy/
+  - Title: SEBI Scores
+    URL: "/core/sebi-scores/"
+  - Title: Privacy
+    URL: "/core/privacy/"

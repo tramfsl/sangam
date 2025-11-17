@@ -1,15 +1,13 @@
-baseURL: https://tramfsl.netlify.com
+baseURL: https://tramfsl.com
 languageCode: en-us
 title: T.Ram Financial Services (P)Ltd.
 theme: sangam
-
+googleAnalytics: UA-149452566-1
 params: 
   subtitle: "Translating Opportunities to Growth"
   brand_color: "#237"
   contrast_color: "#295"
   freshchat: 
-    olduser: freshchattestmail+prodhealth1722@gmail.com
-    oldtoken: f78f3b09-811c-4f0d-b4f8-bfc84156826b
     token: eec879d6-cc67-49e1-bce0-b179326c8903
     host: https://wchat.freshchat.com
 
