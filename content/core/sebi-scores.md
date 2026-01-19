@@ -3,7 +3,7 @@ draft = false
 title = "SEBI Scores"
 
 +++
-SEBI scores reference [https://scores.gov.in/scores/Welcome.html](https://scores.gov.in/scores/Welcome.html "https://scores.gov.in/scores/Welcome.html")
+SEBI scores reference[https://scores.sebi.gov.in/] 
 
 **Data For the Month Ending June 2024**
 
