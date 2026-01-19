@@ -6,10 +6,7 @@ feed:
     Description: Portfolio Management is the art, science and math of wealth creation.
       We at T. Ram Financial Services manage these 3 key aspects of portfolio management.
     URL: "/services/portfolio-management/"
-  - Title: Financial Planning
-    Description: Well begun is half done. A well drafted financial plan is the first
-      step toward wealth creation and financial independence.
-    URL: "/services/financial-planning/"
+#Remove the Financial Planing Section and All Related Reference  
   - Title: Mutual Fund Distribution
     Description: An unbiased advisor can help the clients achieve superior returns
       from their Mutual Fund Investments. We are not just distributors of mutual funds
