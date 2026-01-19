@@ -15,9 +15,7 @@ Write an email to us @ **subashr@tramfsl.com**
 
 Call us at **+91-4424335067** or at **+91-4424351903**
 
-## Chat with Us
 
-Do you see that chat widget at the bottom right corner? Leave your query there and we'll respond within a day. You can check the response a few days later too, no need to stay online.
 
 ## Visit Us
 Visit our office here: 
