@@ -3,21 +3,28 @@ feed:
   name: Services
   list:
   - Title: Portfolio Management
+    URL: "/services/portfolio-management/"
+    
     Description: Portfolio Management is the art, science and math of wealth creation.
       We at T. Ram Financial Services manage these 3 key aspects of portfolio management.
-    URL: "/services/portfolio-management/"
+
 #Remove the Financial Planing Section and All Related Reference  
   - Title: Mutual Fund Distribution
+    URL: "/services/mutual-fund-distribution/"
+
     Description: An unbiased advisor can help the clients achieve superior returns
       from their Mutual Fund Investments. We are not just distributors of mutual funds
       but caretakers and doctors of your investments.
-    URL: "/services/mutual-fund-distribution/"
+
   - Title: Equity Broking
+    URL: "/services/equity-broking/"
+
     Description: We offer a platform for our clients to execute trades in BSE & NSE
       through Paterson Securities Pvt. Ltd., one of India’s oldest and reputed Brokerage
       house.
-    URL: "/services/equity-broking/"
+
   - Title: Support Services
+    URL: "/services/support-services/"
+
     Description: Offerings of TRFSL are holistic. They are not just limited to wealth
       creation but also optimisation, management and inheritance of the created wealth.
-    URL: "/services/support-services/"
