@@ -5,7 +5,7 @@ title = "SEBI Scores"
 +++
 SEBI scores reference[https://scores.sebi.gov.in/] 
 
-**Data For the Month Ending June 2024**
+**Data For the Month Ending December 2025**
 
 | S. No | Received From | Pending at the end of last month | Received | Resolved* | Total Pending# | Pending complaints >3 months | Average Resolution Time^ (in days) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -18,17 +18,17 @@ SEBI scores reference[https://scores.sebi.gov.in/]
 
 | S. No | Month | Carried forward from previous month | Received | Resolved* | Total Pending# |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | Apr 2024 | 0 | 0 | 0 | 0 |
-| 2 | May 2024 | 0 | 0 | 0 | 0 |
-| 3 | Jun 2024 | 0 | 0 | 0 | 0 |
+| 1 | October 2025 | 0 | 0 | 0 | 0 |
+| 2 | November 2025 | 0 | 0 | 0 | 0 |
+| 3 | December 2025 | 0 | 0 | 0 | 0 |
 | # | Grand Total | 0 |  |  |  |
 
 **Trend of Annual disposal of complaints**
 
 | S. No | Month | Carried forward from previous month | Received | Resolved* | Total Pending# |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | 2021- 22 | 0 | 0 | 0 | 0 |
-| 2 | 2022- 23 | 0 | 0 | 0 | 0 |
-| 3 | 2023- 24 | 0 | 0 | 0 | 0 |
+| 1 | 2022- 23 | 0 | 0 | 0 | 0 |
+| 2 | 2023- 24 | 0 | 0 | 0 | 0 |
+| 3 | 2024- 25 | 0 | 0 | 0 | 0 |
 | # | Grand Total | 0 |  |  |  |
 
