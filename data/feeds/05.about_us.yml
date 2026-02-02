@@ -2,8 +2,8 @@
 feed:
   name: About Us
   list:
-  - Title: We are a premier portfolio management services firm
-    URL: "/core/about-us/"
+  - Title: "[We are a premier portfolio management services firm](https://tramfsl.com/core/about-us/)"
+    
 
     Description: >
       T. Ram Financial Services Pvt. Ltd., caters to more than 300 clients
