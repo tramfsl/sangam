@@ -2,16 +2,14 @@
 feed:
   name: About Us
   list:
-  - Title: We are a premier portfolio management services firm
-    URL: "/core/about-us/" 
-
+  - title: '<a href="/core/about-us/">We are a premier portfolio management services firm</a>'
+    
     Description: |
       T. Ram Financial Services Pvt. Ltd., caters to more than 300 clients
       across the globe. The firm manages ₹ 230 Cr under Discretionary Portfolio Management
       Services and manages ₹ 90 Cr as AUM under Mutual Fund Distribution services.
-    
-  - Title: Investment Charter
-    URL: "/uploads/t-ram-fsl-investment-charter.pdf"
+
+  - title: '<a href="/uploads/t-ram-fsl-investment-charter.pdf">Investment Charter</a>'
 
     Description: |
       Investor charter in respect of portfolio management services including
