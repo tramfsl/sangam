@@ -3,7 +3,7 @@ feed:
   name: About Us
   list:
   - Title: We are a premier portfolio management services firm
-    Title_link: "/core/about-us/" 
+    URL: "/core/about-us/" 
 
     
     Description: |
@@ -13,7 +13,7 @@ feed:
       
     
   - Title: Investment Charter
-    Title_link: "/uploads/t-ram-fsl-investment-charter.pdf"
+    URL: "/uploads/t-ram-fsl-investment-charter.pdf"
 
 
     Description: |
