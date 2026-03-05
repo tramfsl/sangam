@@ -1,0 +1,11 @@
+{{ define "main"}}
+<div class="hero">
+    <section class="intro">
+      <h2>{{ .Title }}</h2>
+      {{ if (isset .Params "cta" ) }}
+      <div class="cta"><a class="cta-link" href="{{ .Params.cta_link }}">{{ .Params.cta }}</a></div>
+      {{ end }}
+    </section>
+  </div>
+  <p>{{ .Content }}</p>
+{{ end }}
