@@ -7,7 +7,7 @@ title = "A snapshot of month on month performance since Nov 2018"
 +++
 We are presenting you the month-on-month return % since Nov 2018.
 
-![](/uploads/Performance_from_Nov_2018_Oct_2019.png)
+![November_performance](/uploads/Performance_from_Nov_2018_Oct_2019.png)
 
   
 **### References**  
