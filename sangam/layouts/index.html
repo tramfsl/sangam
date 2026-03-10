@@ -3,7 +3,7 @@
     <section class="intro">
       <h2>{{ .Title }}</h2>
       {{ if (isset .Params "cta" ) }}
-      <div class="cta"><a class="cta-link" href="{{ .Params.cta_link }}">{{ .Params.cta }}</a></div>
+      <div class="cta"><a class="cta-link" href="{{ .Params.cta_link }}" aria-label="Call to action">{{ .Params.cta }}</a></div>
       {{ end }}
     </section>
   </div>
