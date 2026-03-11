@@ -10,10 +10,3 @@ params:
   freshchat: 
     token: eec879d6-cc67-49e1-bce0-b179326c8903
     host: https://wchat.freshchat.com
-
-menu: 
-  main: 
-    - name: Login
-      url: /core/login/
-      weight: 40
-      pre: "icon-about"
