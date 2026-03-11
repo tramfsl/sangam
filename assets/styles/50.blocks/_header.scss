@@ -1,0 +1,47 @@
+.site-header {
+  // font-size: 16px;
+
+  &#{&}{
+    background: $color-brand-dark;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    @media (min-width: 75em) {
+      flex-direction: row;
+    }
+  }
+}
+
+.o-site-nav {
+  max-width: 100%;
+  &#{&} {
+    flex: 1 0 auto;
+  }
+
+  ul {
+    margin-top: .5em;
+    @media (max-width: 75em) {
+      font-size: 15px;
+    }
+  }
+  
+  @media (min-width: 75em) {
+    margin-left: auto;
+    
+    li {
+      padding: 5px 20px;
+    }
+  }
+}
+
+.skip-to-main a {
+  font-size: 1px;
+  max-width: 1px;
+  overflow: hidden;
+  &:focus {
+    max-width: fit-content;
+    overflow: auto;
+    font-size: 1em;
+    color: white;
+  }
+}

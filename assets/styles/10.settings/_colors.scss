@@ -1,0 +1,25 @@
+$color-brand: #835 !default;
+$color-contrast: #295 !default;	
+$color-brand-light: lighten($color-brand,10%) !default;
+$color-brand-dark: darken($color-brand,10%) !default;
+$color-brand-dark-transparent: transparentize($color-brand-dark,.1) !default;
+
+$color-primary-white: #fffcfc;
+
+$color-grey: #eee;
+$color-grey-light: #f2f2f2;
+$color-grey-dark: #222;
+
+$color-contrast-light: lighten($color-contrast,10%) !default;
+$color-contrast-dark: darken($color-contrast,10%) !default;
+$color-contrast-dark-transparent: transparentize($color-contrast-dark,.1) !default;
+
+
+$color-page-background: $color-grey;
+$color-content-background: $color-grey-light;
+
+$color-text: $color-grey-dark;
+$color-text-trans: rgba(50,50,50,.9);
+$color-link-light: lighten($color-contrast,25%);
+$color-link-dark: $color-contrast-dark;
+
