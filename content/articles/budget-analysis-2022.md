@@ -21,13 +21,13 @@ The windfall was used to foot the fertiliser subsidy for the farmer (61000 cr) t
 
 This increase in revenues and expenditure is captured in the Exhibit 1 below.
 
-![](/uploads/1.png)
+![Revenues and expenditure is captured](/uploads/1.png)
 
 Source : Budget Documents
 
 The policy of the government is clear from what it did over the last 24 months – It doesn’t subscribe to the policy of stimulating the economy through helicopter money. Instead, it wants to stimulate the economy through enhanced capital expenditure. The increase in Capital Expenditure over the last few years is captured in Exhibit 2.
 
-![](/uploads/2.png)
+![Increase in Capital Expenditure over the last few years is captured](/uploads/2.png)
 
 Source : Budget Documents
 
@@ -35,13 +35,13 @@ Source : Budget Documents
 
 Budget 2022 in short is continuity of Budget 2021 – Focusing on Capital Expenditures, increasing tax revenues and Strategic Divestments while bringing down fiscal deficit further to 6.4%. The essence of the Budget is captured in Exhibit 3 and Exhibit 4. Exhibit 3 throws light on how GOI earns a rupee and how it spends the same. Exhibit 4 summarises the Budget workings.
 
-![](/uploads/3.png)
+![Earned Budget documnet](/uploads/3.png)
 
-![](/uploads/4.png)
+![Spent the Budget documnet](/uploads/4.png)
 
 Exihibit 4:
 
-![](/uploads/5.png)
+![Budget ATAGlance](/uploads/5.png)
 
 Source : Business Standard
 
@@ -95,7 +95,7 @@ Feb 03 2022
 
 Exhibit 5:
 
-![](/uploads/6.png)
+![Decision making tool the right TAX Sytem](/uploads/6.png)
 
 Note:
 

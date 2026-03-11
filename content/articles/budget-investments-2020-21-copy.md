@@ -22,8 +22,8 @@ E - Empathy.
 
 Hope you like the thought process and find it useful.
 
-![](/uploads/whatsapp-image-2023-02-26-at-10-05-50.jpeg)
+![Article1 _writing_key_its_me](/uploads/whatsapp-image-2023-02-26-at-10-05-50.jpeg)
 
-![](/uploads/whatsapp-image-2023-02-26-at-10-05-51-1.jpeg)
+![Article1 _writing_key_its_me_countinue](/uploads/whatsapp-image-2023-02-26-at-10-05-51-1.jpeg)
 
-![](/uploads/whatsapp-image-2023-02-26-at-10-05-51.jpeg)
+![Article1 _writing_key_its_me__Explanation](/uploads/whatsapp-image-2023-02-26-at-10-05-51.jpeg)

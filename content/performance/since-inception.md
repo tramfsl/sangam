@@ -8,7 +8,7 @@ draft: true
 
 Here is how we compare against other indices of the industry:
 
-![](/uploads/return-since-inception-may-22.PNG)
+![Summary_of_returnsmay2022](/uploads/return-since-inception-may-22.PNG)
 
 ### References
 

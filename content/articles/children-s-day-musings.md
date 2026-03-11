@@ -4,4 +4,4 @@ subtitle = ""
 title = "Children's Day Musings"
 
 +++
-![](/uploads/Children's Day Bites.JPG)
+![Children enjoying snacks during Children's Day celebration](/uploads/Children's Day Bites.JPG)
